@@ -6,7 +6,7 @@ url="https://gitlab.com/eang/diffpdf"
 screenshot="http://www.qtrac.eu/diffpdf.png"
 license=('GPL2')
 arch=('x86_64')
-depends=('poppler' 'hicolor-icon-theme' 'curl' 'expat' 'lcms2' 'nspr' 'openssl' 'pcre')
+depends=('poppler' 'hicolor-icon-theme' 'curl' 'nspr')
 makedepends=('cmake' 'extra-cmake-modules' 'qt5-tools')
 source=("https://gitlab.com/eang/diffpdf/-/archive/v${pkgver}/${pkgname}-v${pkgver}.tar.gz"
         "diffpdf.desktop")
