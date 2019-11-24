@@ -1,7 +1,7 @@
 # diffpdf
 Diffing pdf files visually or textually
 
-![Screenshot](http://www.qtrac.eu/diffpdf_M1.png)![](http://www.qtrac.eu/diffpdf_M2.png)![](http://www.qtrac.eu/diffpdf_M3.png)
+![Screenshot](https://linux-cdn.softpedia.com/screenshots/DiffPDF_1.png)
 
 ## Links
 * [Homepage] (http://www.qtrac.eu/diffpdf-foss.html)
